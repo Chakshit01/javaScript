@@ -14,5 +14,10 @@ console.log(Name);// will display the value as the string was easily convertable
 
 
 let isApplicable = "";
-let isVariable = "not"
+let isVariable = "not";
 let isApp = Boolean(isApplicable);
+let isVar = Boolean(isVariable);
+console.log(typeof(isApp));
+console.log(isVar);// false because string is empty
+
+console.log(isApp);// true because string contains some value
