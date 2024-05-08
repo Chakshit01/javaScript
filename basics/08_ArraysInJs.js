@@ -33,8 +33,4 @@ console.log("D",arr)
 
 1. splice will include the last value whereas splice does'nt
 2. also splice will manipulate the array whereas slice does'nt have any impact on the array
-
-
-
-
 */
