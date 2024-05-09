@@ -12,3 +12,11 @@ const {courseInstuctor} = course
 const {courseInstuctor:instructor}=course
 console.log(instructor)
 
+// json for calling api
+
+// {
+//     "name":"RAm",
+//     "email":"ram@gmail.com",
+//     "id":2344
+
+// }
