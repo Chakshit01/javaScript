@@ -1,4 +1,4 @@
-// *** functions**** //
+ // *** functions**** //
 
 
 function addition(number1,number2){
